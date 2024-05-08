@@ -18,6 +18,6 @@ A Python-based system for real-time audio streaming from a microphone on one mac
 This app supports multiple clients. 
 The system will get the microphone enumerated as #0 in the system.
 Log is in JSON format, simple with text and timestamp. ( more attributes can be added by using .info() )
-
+Error handling is not sophisticated yet, still need more try / catch to make it production code.
 
 
